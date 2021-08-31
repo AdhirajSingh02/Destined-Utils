@@ -1,6 +1,6 @@
 const Aoijs = require('aoi.js');
 const bot = new Aoijs.Bot({
-	token: process.env.TOKEN,
+	token: process.env.T,
 	prefix: ['$getServerVar[prefix]'],
   autoUpdate: false
 });
