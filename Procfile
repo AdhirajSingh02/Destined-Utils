@@ -1,1 +1,1 @@
-worker: node aurora.js
+worker: node utils.js

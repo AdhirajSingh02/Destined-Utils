@@ -1,17 +1,15 @@
 {
-  "name": "aurora-premium",
+  "name": "destined-utils",
   "version": "1.0.0",
-  "description": "",
-  "main": "aurora.js",
+  "description": "Utility client for Destined Heroes.",
+  "main": "utils.js",
   "scripts": {
-    "start": "node aurora.js"
+    "start": "node utils.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "aoi.js": "^4.4.4",
-    "express": "^4.17.1",
-    "sqlite3": "^5.0.2"
+    "aoi.js": "^4.4.4"
   }
 }
