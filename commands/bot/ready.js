@@ -1,5 +1,5 @@
 module.exports = {
-channel: "854938789508415518",
+channel: "795903179048222721",
 type: "readyCommand",
 code: `
 $getVar[y] | \`$client[tag]\` is back online.
