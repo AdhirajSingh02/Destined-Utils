@@ -9,7 +9,7 @@ bot.onMessage();
 bot.loadCommands('commands');
 
 bot.variables({
-prefix: ",",
+prefix: ".",
 y: "<:a_prem_check:878910824201224212>",
 n: "<:a_prem_cross:878911018410065921>",
 a: "<:a_arrow:855301271636672522>",
